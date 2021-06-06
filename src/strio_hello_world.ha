@@ -2,6 +2,7 @@
 // Useful links:
 //   * https://docs.harelang.org/strio#appendrune
 //   * https://docs.harelang.org/strio#dynamic
+//   * https://docs.harelang.org/strio#string
 use fmt;
 use io;
 use strio;
